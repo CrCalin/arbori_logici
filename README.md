@@ -26,4 +26,5 @@ Pn
 C
 ```
 <br>
-Vedeti input-urile sample pentru exemple concrete<br>
+
+Vedeti input-urile sample pentru exemple concrete. NU includeti spatii extra, programul nu va functiona daca input-ul nu este formatat exact cum am detaliat mai sus.<br>
